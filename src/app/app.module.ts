@@ -15,7 +15,7 @@ import { MarkersService } from './markers.service';
   imports: [
     BrowserModule,
     AgmCoreModule.forRoot({
-      apiKey:'AIzaSyBJNtVgrwDPo5mrxxMbRo7vYpKBk_3WSuE'
+      //apiKey:'AIzaSyBJNtVgrwDPo5mrxxMbRo7vYpKBk_3WSuE'
       // apiKey: 'AIzaSyCdRjEKrzYALbcgy8UqardJa0n54Lml3XU'
     })
   ],
